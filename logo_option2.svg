@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="240" height="80" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rectangle with rounded corners -->
+  <rect width="240" height="80" rx="10" ry="10" fill="#ffffff" stroke="#e0e0e0" stroke-width="2"/>
+  
+  <!-- Left side - Amazon -->
+  <rect x="20" y="20" width="80" height="40" rx="5" ry="5" fill="#FF9900" opacity="0.2"/>
+  <text x="60" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#232F3E">AMAZON</text>
+  <polygon points="40,45 43,50 48,50 44,53 46,58 40,55 34,58 36,53 32,50 37,50" fill="#FF9900"/>
+  <polygon points="60,45 63,50 68,50 64,53 66,58 60,55 54,58 56,53 52,50 57,50" fill="#FF9900"/>
+  <polygon points="80,45 83,50 88,50 84,53 86,58 80,55 74,58 76,53 72,50 77,50" fill="#FF9900"/>
+  
+  <!-- Right side - Walmart -->
+  <rect x="140" y="20" width="80" height="40" rx="5" ry="5" fill="#0071DC" opacity="0.2"/>
+  <text x="180" y="35" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#041E42">WALMART</text>
+  <polygon points="160,45 163,50 168,50 164,53 166,58 160,55 154,58 156,53 152,50 157,50" fill="#0071DC"/>
+  <polygon points="180,45 183,50 188,50 184,53 186,58 180,55 174,58 176,53 172,50 177,50" fill="#0071DC"/>
+  <polygon points="200,45 203,50 208,50 204,53 206,58 200,55 194,58 196,53 192,50 197,50" fill="#0071DC"/>
+  
+  <!-- Center divider -->
+  <line x1="120" y1="20" x2="120" y2="60" stroke="#333333" stroke-width="2" stroke-dasharray="2,2"/>
+  
+  <!-- Bottom text -->
+  <text x="120" y="70" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="middle" fill="#333333">Review Analyzer</text>
+</svg>
